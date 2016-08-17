@@ -1,0 +1,14 @@
+layout_spectrum: 0.2572502
+typography_spectrum: 0.3195489
+color:
+  saturation: 0.8403028
+  lightness: 0.4155719
+  brandStrength: 0.4387755
+  brandColors:
+    - '#2C393F'
+    - '#9C1C4D'
+    - '#0D7A77'
+    - '#E2DDCA'
+    - '#D5756F'
+  rhythmicContrast: 0.2216408
+name: Dingofy
